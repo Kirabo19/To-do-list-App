@@ -62,6 +62,15 @@ li {
   padding: 0;
 }
 
+.input_task {
+  width: 70%;
+  border: none;
+}
+
+.edit {
+  width: 80%;
+}
+
 .checkbox {
   font: inherit;
   width: 1.15em;
