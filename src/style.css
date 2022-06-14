@@ -91,3 +91,12 @@ hr {
   border-style: solid;
   border-width: 1px;
 }
+
+.complete {
+  color: rgba(192, 192, 192, 0.8);
+  text-decoration: line-through;
+}
+
+.check:checked {
+  background-color: #1dd2af;
+}
