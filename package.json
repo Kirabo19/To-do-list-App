@@ -11,6 +11,8 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Kirabo19/To-do-list-App.git"
+    "predeploy": "npm run build"
+
   },
   "keywords": [],
   "author": "",
